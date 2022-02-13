@@ -25,6 +25,8 @@ NOTE : If you want to run the notebooks, Please run the notebook code in cell by
 
 ### How to Run
 
+Download the project folder and navigate it via jupyter notebook or look at the codes here in github under the link : https://github.com/tyonas9/Project1
+
 In a terminal or command window, navigate to the top-level project directory `project1/` (that contains this README) by unzipping the file and run one of the following commands:
 
 For the income census project 
